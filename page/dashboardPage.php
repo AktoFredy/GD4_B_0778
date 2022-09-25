@@ -24,11 +24,11 @@
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
             </div>
-            <div class="card" style="width: 18rem;">
+            <div class="card" style="width: 17rem;">
                 <img class="card-img-top" src="https://m.media-amazon.com/images/M/MV5BMTJjZmQ5MGQtMWU0My00ZTMzLWFmNTMtNDgzNmU4Y2MxOGUxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg" width="30px" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">The Garden of Words</h5>
-                    <p class="cardtext">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="cardtext">Some quick example text to build on the card title and make up the bulk of the card's content.</p><br>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
             </div>

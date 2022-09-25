@@ -52,7 +52,7 @@
                     }else{
                         echo
                             '<script>
-                            alert("Update Profile");
+                            alert("Update Profile Failed");
                             </script>';
                     }
             }
