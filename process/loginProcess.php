@@ -19,6 +19,7 @@
                 // buat mulai sessionnya pake session_start()
                 session_start();
                 //isLogin ini temp variable yang gunanya buat ngecek nanti apakah sdh login ato belum
+                $_SESSION['userEmail'] = $email;
                 $_SESSION['isLogin'] = true;
                 $_SESSION['user'] = $user;
                 echo '<script>alert("Login Success"); window.location = "../page/dashboardPage.php"</script>';
